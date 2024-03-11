@@ -1,5 +1,8 @@
 body {
     background-color: darkred;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
   }
   
   .banner1{
@@ -8,18 +11,22 @@ body {
         height: 50%;
         width: 50%;
         margin-top: 3%;
-     
+        display: inline-block;
+        
     }
+
+
 
     #content{
         display: flex;
         justify-content: center;
         align-items: center;
         
+
+        
     }
   .paragraph{
-        margin-bottom: 200%;
-        width: 100em;
+        
          border:3px solid darkred;
         background-color: black;
         padding: 3%;
