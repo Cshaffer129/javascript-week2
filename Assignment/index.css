@@ -1,0 +1,41 @@
+body {
+    background-color: darkred;
+  }
+  
+  .banner1{
+        background-color: darkred;
+        padding:3px;
+        height: 50%;
+        width: 50%;
+        margin-top: 3%;
+     
+    }
+
+    #content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+  .paragraph{
+        margin-bottom: 200%;
+        width: 100em;
+         border:3px solid darkred;
+        background-color: black;
+        padding: 3%;
+        color:darkred;
+        font-family: Arial;
+        font-size: large;
+    
+    }
+    
+        
+            
+          
+    textarea{
+        font-size: 1em;
+        margin-bottom: -25%;
+    }
+ 
+
+ 
